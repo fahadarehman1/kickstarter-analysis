@@ -20,7 +20,7 @@ Selection Criteria:
 
 The first analysis we performed was based on Launch Date(aggregated by months) and the Outcome i.e. successful, failed or canceled
 
-![Theater Outcomes vs Launch](\resources\Theater_Outcomes_vs_Launch.PNG)
+![Theater Outcomes vs Launch](/resources/Theater_Outcomes_vs_Launch.PNG)
 
 From the picture above we can see that no. of cancellations were relatively low throughout the year. There's an uptick of successful projects starting spring. The failed percentages in most of the months were close to 30%. At the end of the year the year the Theater projects success goes down but one will think that its the holiday season and people are attending more theater shows but the data doesn't show that. We can see in summer there's more success and in the colder months the success goes down.
 
@@ -28,11 +28,11 @@ From the picture above we can see that no. of cancellations were relatively low 
 
 The second analysis was based on no. of successful/failed/canceled outcome and their respective percentages.
 
-![Outcomes Based on Goal](\resources\Outcomes_Based_on_Goal.PNG)
+![Outcomes Based on Goal](/resources/Outcomes_Based_on_Goal.PNG)
 
 The most obvious point here is that none of the plays got cancelled regardless of asking goal amount. We can also see that the lower the goal amount the higher the success rate. The sweet spot is a goal less than $15,000. There are some anomalies though and we did saw some success at higher goal rate i.e. range of 35-45K but those projects are less than a percentage point as shown below:
 
-![Outcomes based on no. of Projects](\resources\Outcome_Based_on_Projects.PNG)
+![Outcomes based on no. of Projects](/resources/Outcome_Based_on_Projects.PNG)
 
 
 
