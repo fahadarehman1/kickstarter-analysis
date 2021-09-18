@@ -28,7 +28,7 @@ From the picture above we can see that no. of cancellations were relatively low 
 
 The second analysis was based on no. of successful/failed/canceled outcome and their respective percentages.
 
-![Outcomes Based on Goal](/resources/Outcomes_Based_on_Goal.PNG)
+![Outcomes vs Goal](/resources/Outcomes_vs_Goals.PNG)
 
 The most obvious point here is that none of the plays got cancelled regardless of asking goal amount. We can also see that the lower the goal amount the higher the success rate. The sweet spot is a goal less than $15,000. There are some anomalies though and we did saw some success at higher goal rate i.e. range of 35-45K but those projects are less than a percentage point as shown below:
 
